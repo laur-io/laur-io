@@ -3,7 +3,7 @@
 My name is Lauren, and I’m a Computer Science student at Sacramento State University.
 
 I’m naturally curious and enjoy using technology and statistics to understand problems and find solutions.
-I’m especially interested in data analytics, data science, and creating projects that turn information into useful insights.
+I love creating projects that turn information into useful insights.
 
 ### Tech Stack
 
